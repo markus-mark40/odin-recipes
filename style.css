@@ -10,14 +10,11 @@ color: #F7D87F;
 color: #F8EBAB;
 }
 
-a {
-    display: block;
-}
-
 .card {
     background-color: #BE1A1A;
     padding: 8px;
     border-radius: 24px;
+    width: 700px;
 }
 
 .card-2 {
@@ -25,4 +22,35 @@ a {
     margin: 12px;
     padding: 8px;
     border-radius: 15px;
+}
+
+.button {
+    display: inline-block;
+    color: #BE1A1A;
+    background-color: #F8EBAB;;
+    text-decoration: none;
+    margin: 4px;
+    font-size: 18px;
+    padding: 12px;
+    width: 190px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.content{
+    font-size: 16px;
+    text-align: center;
+}
+.text-center {
+    text-align: center;
+}
+
+/* chicken_adobo.html */
+
+palettes{
+color: #BE1A1A;
+color: #D0311E;
+color: #F7D87F;
+color: #F8EBAB;
 }
