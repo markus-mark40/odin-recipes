@@ -63,8 +63,8 @@ color: #F7D87F;
 color: #F8EBAB;
 }
 
-#chicken-adobo-pic {
-    width: 300px;
+img {
+    width: 500px;
     height: auto;
     border-radius: 12px;
 }
@@ -90,5 +90,7 @@ p{
 }
 
 .home{
-   margin-left: 250px
+   /* margin-left: 20px; */
+   width: 140px;
+   box-sizing: border-box;
 }
