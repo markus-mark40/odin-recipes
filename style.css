@@ -1,7 +1,28 @@
 body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #F8EBAB  ;
+}
+
+palettes{
+color: #BE1A1A;
+color: #D0311E;
+color: #F7D87F;
+color: #F8EBAB;
 }
 
 a {
     display: block;
+}
+
+.card {
+    background-color: #BE1A1A;
+    padding: 8px;
+    border-radius: 24px;
+}
+
+.card-2 {
+    background-color: #D0311E;
+    margin: 12px;
+    padding: 8px;
+    border-radius: 15px;
 }
