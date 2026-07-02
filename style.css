@@ -24,6 +24,10 @@ color: #F8EBAB;
     border-radius: 15px;
 }
 
+.add-padding{
+    padding: 12px;
+}
+
 .button {
     display: inline-block;
     color: #BE1A1A;
@@ -53,4 +57,10 @@ color: #BE1A1A;
 color: #D0311E;
 color: #F7D87F;
 color: #F8EBAB;
+}
+
+#chicken-adobo-pic {
+    width: 300px;
+    height: auto;
+    border-radius: 12px;
 }
